@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-ranjani1
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: beba0f1a-4e36-46b7-89ce-750c7e31a08
+  SUBSCRIPTION-ID: beba0f1a-4e36-46b7-89ce-750c7e31a082
   WEBAPP-NAME: eshoponweb-webapp-ranjani
 
 
